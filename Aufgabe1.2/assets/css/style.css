@@ -1,0 +1,23 @@
+
+
+
+div{
+   /* height: 200px;
+    width: 1000px;*/
+    background-color: rgb(235, 187, 195);
+    border: 2px solid black;
+    margin:200px;
+    padding: 20px;
+
+}
+p{
+   /* height: 100px;
+    width: 900px;*/
+    background-color: rgb(172, 243, 232);
+    border: 8px solid black;
+    text-align: center;
+    margin: 10px;
+    padding: 50px;
+
+
+}

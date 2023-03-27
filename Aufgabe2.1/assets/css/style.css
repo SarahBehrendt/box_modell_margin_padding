@@ -1,0 +1,50 @@
+
+
+
+h1{
+    text-align: center;
+    border: 5px dotted black;
+    border-radius: 30px;
+    padding: 20px 60px;
+    margin: 30px 200px 20px 200px;
+}
+
+p{
+    
+    border: 2px solid gold;
+    color: purple;
+    text-transform: capitalize;
+    padding:20px ;
+    margin: 20px 200px;
+}
+p:first-letter{
+    font-size: 70px;
+    line-height: 50px;
+    
+
+    }
+  
+h2{
+    border:1px solid gray;
+    border-radius: 50px;
+    padding: 20px 60px ;
+    margin:20px 300px ;
+    text-align: center;
+    box-shadow: 0px 0px 15px rgb(8, 8, 8);
+    
+
+}
+ul, ol{
+    border: 2px dotted rgb(35, 4, 213);
+    text-decoration:underline blue;
+    margin: 20px 320px;
+    padding: 25px 30px 20px 20px;
+
+}
+h3{
+    border: 10px double rgb(71, 114, 5);
+    border-radius: 30px;
+    margin: 20px 600px;
+    padding: 20px;
+    text-align: center;
+}

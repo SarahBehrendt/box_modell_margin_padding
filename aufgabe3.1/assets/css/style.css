@@ -1,0 +1,78 @@
+@font-face {
+    font-family: Poppins;
+    src: url(../Poppins-Regular.ttf);
+}
+*{
+    font-family: Poppins;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* startseite*/
+.index-div{
+    height: 700px;
+    width: 500px;
+    background-image: url(../forest.avif);
+    /*background-repeat: no-repeat;
+    background-position: center;*/
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+    margin: 25px auto;
+}
+h1{
+    /*text-align: center;
+    margin: 20px auto 20px auto;*/
+    padding: 0px 40px 0px 40px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    border: 1px solid black;
+    color: black;
+    border-radius: 20px;
+    /*margin-right: auto;
+    margin-left: auto;*/
+    text-align: center;
+    padding: 10px 20px;}
+
+
+ main div:nth-child(1){
+    height: 700px;
+    width: 500px;
+    border:2px solid black ;
+    border-radius: 20px;
+    background-color:blue;}
+
+  
+
+    
+    div:nth-child(2){
+        border-radius:20px ;
+        padding: 50px 100px;
+        
+
+    }
+
+
+img{
+    /*height: 350px;
+    width: 250px;
+    margin-right: auto;
+    margin-left: auto;*/
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 0 0 6px black;
+   width: 100%;
+    }
+
+    div:nth-child(3){
+        
+        margin-left: 50px;
+    }
+
+  div:nth-child(4){
+   
+    text-align: center;
+    margin-top: 30px;
+}
